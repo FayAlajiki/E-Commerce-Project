@@ -79,6 +79,7 @@ Business recommendation:
 Sales and growth stakeholders should increase market expansion efforts in these regions through targeted campaigns, localized commercial planning, and stronger distribution support. These markets represent the clearest opportunities for deeper penetration and scalable growth.
 
 Overall, the dashboard showed a business with solid commercial performance, but also one that would benefit from a more balanced customer mix and sharper market prioritization.
+
 <img width="485" height="260" alt="with date" src="https://github.com/user-attachments/assets/554b5cc8-a38f-4c98-b19b-0c98f70a9c6c" />
 
 ## Next Steps
